@@ -7,7 +7,7 @@ This Flutter application allows users to generate and download electronic bills 
 - Save bill data to Firebase Firestore.
 - Download and view bills on your device.
 
-## Photos
+## Preview
 Here are some sample screenshots of the app in action. You can also share your own photos showing how you're using the app to generate and manage bills.
 
 ![Untitled-1](https://github.com/user-attachments/assets/d11d5083-1622-4aff-b6d0-832abfa52839)
