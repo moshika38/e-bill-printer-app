@@ -1,16 +1,33 @@
-# bill_maker
+# E-Bill Printer App
 
-A new Flutter project.
+This Flutter application allows users to generate and download electronic bills in PDF format using Firebase and Firestore.
+
+## Features
+- Generate e-bills as PDFs.
+- Save bill data to Firebase Firestore.
+- Download and view bills on your device.
+
+## Photos
+Here are some sample screenshots of the app in action. You can also share your own photos showing how you're using the app to generate and manage bills.
+
+![Untitled-1](https://github.com/user-attachments/assets/d11d5083-1622-4aff-b6d0-832abfa52839)
 
 ## Getting Started
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/moshika38/e-bill-printer-app
+   ```
+2. **Install dependencies**:
+   ```bash
+   flutter pub get
+   ```
+3. **Run the app**:
+   ```bash
+   flutter run
+   ```
 
-This project is a starting point for a Flutter application.
+## Requirements
+- Flutter SDK
+- Firebase and Firestore setup
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
